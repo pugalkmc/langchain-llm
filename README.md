@@ -1,4 +1,3 @@
-```
 # LangChain-LLM Readme
 
 ## Instructions
@@ -40,4 +39,3 @@
 
 - Ensure Node.js and npm are installed on your machine.
 - Make sure your OpenAI API key is valid and has the necessary permissions.
-```
